@@ -1,21 +1,21 @@
 {
-  "name": "ember-auth-strategy-token",
-  "summary": "token strategy adapter for ember-auth",
-  "description": "token strategy adapter for ember-auth",
+  "name": "ember-auth-strategy-token-tastypie",
+  "summary": "Tastypie token strategy adapter for ember-auth",
+  "description": "Tastypie token strategy adapter for ember-auth",
   "keywords": ["ember", "emberjs", "ember.js", "auth", "authentication"],
   "homepage": "http://ember-auth.herokuapp.com",
-  "bugs": "https://github.com/heartsentwined/ember-auth-strategy-token/issues",
-  "version": "1.0.2",
-  "main": "dist/ember-auth-strategy-token.js",
+  "bugs": "https://github.com/Samsinite/ember-auth-strategy-token-tastypie/issues",
+  "version": "0.1.0",
+  "main": "dist/ember-auth-strategy-token-tastypie.js",
 
   "author": {
-    "name": "heartsentwined",
-    "email": "heartsentwined.me@gmail.com"
+    "name": "Samuel Clopton",
+    "email": "samsinite@gmail.com"
   },
   "maintainers": [
     {
-      "name": "heartsentwined",
-      "email": "heartsentwined.me@gmail.com"
+      "name": "Samuel Clopton",
+      "email": "samsinite@gmail.com"
     }
   ],
 
@@ -26,7 +26,7 @@
   "engines": { "node": "*" },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heartsentwined/ember-auth-strategy-token"
+    "url": "https://github.com/Samsinite/ember-auth-strategy-token-tastypie"
   },
   "license": "MIT"
 }
